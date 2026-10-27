@@ -1,0 +1,7 @@
+# File cau hinh nhay cam - GreenTech (gia tri mau, KHONG dung mat khau that)
+DB_HOST=localhost
+DB_USER=greentech_admin
+DB_PASSWORD=doi_mat_khau_o_day
+API_KEY=doi_api_key_o_day
+LOG_FILE=data/log-he-thong.log
+REPORT_FILE=backup/bao-cao-su-co.txt

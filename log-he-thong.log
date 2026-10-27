@@ -1,0 +1,200 @@
+2026-10-01 02:16:52 [INFO] TRAM100: Nguoi dung dang nhap
+2026-10-01 04:02:27 [CRITICAL] TRAM040: CRITICAL - O cung day 99%
+2026-10-01 04:11:09 [CRITICAL] TRAM078: CRITICAL - Mat ket noi co so du lieu
+2026-10-01 19:09:26 [ERROR] TRAM028: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-01 23:48:38 [WARNING] TRAM039: Nhiet do CPU cao
+2026-10-02 02:42:53 [DEBUG] TRAM021: Doc cau hinh .env
+2026-10-02 03:00:30 [INFO] TRAM060: Nguoi dung dang nhap
+2026-10-02 04:40:23 [INFO] TRAM004: Cam bien gui du lieu thanh cong
+2026-10-02 09:14:07 [INFO] TRAM048: Dong bo gio he thong
+2026-10-02 10:43:33 [CRITICAL] TRAM072: CRITICAL - Mat ket noi co so du lieu
+2026-10-02 14:04:51 [ERROR] TRAM049: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-02 15:17:43 [INFO] TRAM062: Cam bien gui du lieu thanh cong
+2026-10-02 15:35:30 [DEBUG] TRAM027: Kiem tra bo nho dem
+2026-10-02 18:07:14 [INFO] TRAM055: Nguoi dung dang nhap
+2026-10-02 20:45:19 [INFO] TRAM073: Cam bien gui du lieu thanh cong
+2026-10-02 22:11:27 [WARNING] TRAM036: RAM con duoi 20%
+2026-10-02 22:21:45 [WARNING] TRAM064: RAM con duoi 20%
+2026-10-03 01:59:46 [WARN] TRAM093: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-03 03:58:50 [WARN] TRAM066: TIMEOUT - Gateway qua thoi gian cho
+2026-10-03 04:47:33 [INFO] TRAM075: Cam bien gui du lieu thanh cong
+2026-10-03 05:09:14 [ERROR] TRAM020: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-03 08:39:05 [INFO] TRAM014: Dong bo gio he thong
+2026-10-03 08:55:07 [INFO] TRAM029: Nguoi dung dang nhap
+2026-10-03 10:15:23 [INFO] TRAM072: Dong bo gio he thong
+2026-10-03 12:24:55 [DEBUG] TRAM048: Doc cau hinh .env
+2026-10-03 12:59:59 [CRITICAL] TRAM001: CRITICAL - O cung day 99%
+2026-10-03 14:20:39 [WARN] TRAM098: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-03 15:01:18 [WARN] TRAM040: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-03 15:58:43 [CRITICAL] TRAM049: CRITICAL - O cung day 99%
+2026-10-03 17:36:50 [ERROR] TRAM086: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-03 20:10:25 [INFO] TRAM069: Nguoi dung dang nhap
+2026-10-03 20:47:56 [INFO] TRAM002: Cam bien gui du lieu thanh cong
+2026-10-03 23:23:01 [INFO] TRAM041: Dong bo gio he thong
+2026-10-04 15:45:29 [INFO] TRAM030: Cam bien gui du lieu thanh cong
+2026-10-04 17:03:15 [WARN] TRAM100: TIMEOUT - Gateway qua thoi gian cho
+2026-10-04 23:44:41 [INFO] TRAM088: Nguoi dung dang nhap
+2026-10-05 00:00:51 [INFO] TRAM071: Nguoi dung dang nhap
+2026-10-05 13:54:58 [INFO] TRAM097: Dong bo gio he thong
+2026-10-05 13:55:12 [INFO] TRAM096: Nguoi dung dang nhap
+2026-10-05 14:14:47 [WARNING] TRAM033: RAM con duoi 20%
+2026-10-05 16:32:01 [WARN] TRAM069: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-05 18:57:29 [INFO] TRAM004: Cam bien gui du lieu thanh cong
+2026-10-05 22:41:42 [DEBUG] TRAM100: Kiem tra bo nho dem
+2026-10-06 00:31:43 [CRITICAL] TRAM004: CRITICAL - O cung day 99%
+2026-10-06 03:00:05 [WARNING] TRAM057: Nhiet do CPU cao
+2026-10-06 05:17:28 [DEBUG] TRAM059: Kiem tra bo nho dem
+2026-10-06 06:59:19 [INFO] TRAM007: Dong bo gio he thong
+2026-10-06 10:12:11 [WARNING] TRAM011: RAM con duoi 20%
+2026-10-06 12:28:57 [INFO] TRAM008: Nguoi dung dang nhap
+2026-10-06 21:53:14 [INFO] TRAM063: Dong bo gio he thong
+2026-10-07 07:52:25 [INFO] TRAM098: Nguoi dung dang nhap
+2026-10-07 09:32:15 [INFO] TRAM033: Cam bien gui du lieu thanh cong
+2026-10-07 10:04:25 [INFO] TRAM075: Dong bo gio he thong
+2026-10-07 10:13:30 [INFO] TRAM061: Cam bien gui du lieu thanh cong
+2026-10-07 16:23:09 [INFO] TRAM003: Nguoi dung dang nhap
+2026-10-07 19:24:09 [WARNING] TRAM010: RAM con duoi 20%
+2026-10-07 22:00:57 [WARNING] TRAM016: Nhiet do CPU cao
+2026-10-08 02:37:33 [DEBUG] TRAM081: Doc cau hinh .env
+2026-10-08 03:14:09 [WARN] TRAM058: TIMEOUT - Gateway qua thoi gian cho
+2026-10-08 05:15:15 [DEBUG] TRAM057: Kiem tra bo nho dem
+2026-10-08 08:48:56 [INFO] TRAM060: Cam bien gui du lieu thanh cong
+2026-10-08 09:30:35 [DEBUG] TRAM084: Doc cau hinh .env
+2026-10-08 13:04:13 [WARNING] TRAM086: RAM con duoi 20%
+2026-10-08 14:58:21 [WARN] TRAM071: TIMEOUT - Gateway qua thoi gian cho
+2026-10-08 15:57:56 [INFO] TRAM047: Nguoi dung dang nhap
+2026-10-08 17:15:01 [INFO] TRAM068: Dong bo gio he thong
+2026-10-09 00:29:51 [WARN] TRAM063: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-09 01:00:01 [DEBUG] TRAM003: Doc cau hinh .env
+2026-10-09 06:44:38 [INFO] TRAM061: Dong bo gio he thong
+2026-10-09 07:24:25 [WARN] TRAM012: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-09 07:42:27 [CRITICAL] TRAM011: CRITICAL - O cung day 99%
+2026-10-09 08:02:57 [INFO] TRAM011: Cam bien gui du lieu thanh cong
+2026-10-09 10:41:53 [WARN] TRAM059: TIMEOUT - Gateway qua thoi gian cho
+2026-10-09 10:48:03 [WARN] TRAM049: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-09 14:32:34 [WARN] TRAM089: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-09 15:44:42 [CRITICAL] TRAM012: CRITICAL - Mat ket noi co so du lieu
+2026-10-09 16:41:12 [ERROR] TRAM061: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-09 22:26:22 [INFO] TRAM071: Dong bo gio he thong
+2026-10-10 01:01:12 [ERROR] TRAM084: ERROR 404 - Khong tim thay tram
+2026-10-10 07:50:11 [CRITICAL] TRAM047: CRITICAL - O cung day 99%
+2026-10-10 08:47:47 [ERROR] TRAM037: ERROR 500 - Loi may chu noi bo
+2026-10-10 16:31:56 [INFO] TRAM074: Cam bien gui du lieu thanh cong
+2026-10-10 16:37:12 [INFO] TRAM010: Cam bien gui du lieu thanh cong
+2026-10-10 19:15:44 [ERROR] TRAM086: ERROR 404 - Khong tim thay tram
+2026-10-10 21:46:24 [WARN] TRAM005: TIMEOUT - Gateway qua thoi gian cho
+2026-10-10 22:49:09 [INFO] TRAM095: Cam bien gui du lieu thanh cong
+2026-10-10 23:39:41 [WARNING] TRAM020: Nhiet do CPU cao
+2026-10-11 00:20:48 [ERROR] TRAM016: ERROR 500 - Loi may chu noi bo
+2026-10-11 02:51:46 [INFO] TRAM082: Dong bo gio he thong
+2026-10-11 04:02:13 [INFO] TRAM048: Cam bien gui du lieu thanh cong
+2026-10-11 04:59:31 [ERROR] TRAM097: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-11 11:47:57 [WARN] TRAM025: TIMEOUT - Gateway qua thoi gian cho
+2026-10-11 17:20:15 [INFO] TRAM047: Dong bo gio he thong
+2026-10-11 19:02:16 [WARNING] TRAM035: Nhiet do CPU cao
+2026-10-12 04:43:32 [CRITICAL] TRAM074: CRITICAL - O cung day 99%
+2026-10-12 05:00:21 [INFO] TRAM028: Dong bo gio he thong
+2026-10-12 11:05:14 [WARNING] TRAM093: Nhiet do CPU cao
+2026-10-12 15:07:07 [DEBUG] TRAM078: Doc cau hinh .env
+2026-10-12 19:31:37 [WARNING] TRAM089: Nhiet do CPU cao
+2026-10-12 20:05:53 [INFO] TRAM084: Dong bo gio he thong
+2026-10-13 01:14:02 [INFO] TRAM075: Nguoi dung dang nhap
+2026-10-13 05:15:26 [INFO] TRAM026: Nguoi dung dang nhap
+2026-10-13 06:00:51 [ERROR] TRAM088: ERROR 500 - Loi may chu noi bo
+2026-10-13 21:22:01 [CRITICAL] TRAM092: CRITICAL - O cung day 99%
+2026-10-14 00:55:49 [DEBUG] TRAM054: Doc cau hinh .env
+2026-10-14 03:25:28 [INFO] TRAM018: Dong bo gio he thong
+2026-10-14 03:35:48 [DEBUG] TRAM045: Kiem tra bo nho dem
+2026-10-14 04:03:58 [WARNING] TRAM070: Nhiet do CPU cao
+2026-10-14 04:34:07 [WARN] TRAM038: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-14 07:51:40 [CRITICAL] TRAM081: CRITICAL - Mat ket noi co so du lieu
+2026-10-14 13:04:15 [INFO] TRAM012: Cam bien gui du lieu thanh cong
+2026-10-14 16:20:12 [INFO] TRAM035: Cam bien gui du lieu thanh cong
+2026-10-14 21:31:34 [INFO] TRAM084: Nguoi dung dang nhap
+2026-10-15 05:07:21 [INFO] TRAM027: Cam bien gui du lieu thanh cong
+2026-10-15 08:24:13 [CRITICAL] TRAM065: CRITICAL - Mat ket noi co so du lieu
+2026-10-15 11:50:50 [INFO] TRAM041: Dong bo gio he thong
+2026-10-15 12:35:17 [CRITICAL] TRAM022: CRITICAL - Mat ket noi co so du lieu
+2026-10-15 14:49:07 [WARN] TRAM060: TIMEOUT - Gateway qua thoi gian cho
+2026-10-15 16:43:11 [DEBUG] TRAM038: Kiem tra bo nho dem
+2026-10-15 19:57:43 [INFO] TRAM054: Cam bien gui du lieu thanh cong
+2026-10-16 04:59:31 [ERROR] TRAM056: ERROR 500 - Loi may chu noi bo
+2026-10-16 06:19:49 [DEBUG] TRAM027: Kiem tra bo nho dem
+2026-10-16 07:59:28 [WARN] TRAM066: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-16 08:51:04 [INFO] TRAM095: Nguoi dung dang nhap
+2026-10-16 09:05:09 [CRITICAL] TRAM062: CRITICAL - O cung day 99%
+2026-10-16 11:46:01 [INFO] TRAM067: Cam bien gui du lieu thanh cong
+2026-10-16 17:34:20 [INFO] TRAM005: Nguoi dung dang nhap
+2026-10-16 19:11:57 [DEBUG] TRAM080: Kiem tra bo nho dem
+2026-10-16 20:25:03 [ERROR] TRAM014: ERROR 500 - Loi may chu noi bo
+2026-10-16 21:59:22 [INFO] TRAM077: Nguoi dung dang nhap
+2026-10-16 22:28:11 [INFO] TRAM054: Cam bien gui du lieu thanh cong
+2026-10-17 07:41:51 [DEBUG] TRAM065: Kiem tra bo nho dem
+2026-10-17 08:59:35 [CRITICAL] TRAM090: CRITICAL - Mat ket noi co so du lieu
+2026-10-17 09:41:55 [WARN] TRAM098: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-17 11:58:10 [INFO] TRAM034: Nguoi dung dang nhap
+2026-10-17 12:21:26 [INFO] TRAM056: Nguoi dung dang nhap
+2026-10-17 19:41:43 [WARNING] TRAM089: RAM con duoi 20%
+2026-10-17 20:27:44 [INFO] TRAM033: Nguoi dung dang nhap
+2026-10-17 20:27:46 [INFO] TRAM092: Cam bien gui du lieu thanh cong
+2026-10-17 22:15:07 [DEBUG] TRAM006: Kiem tra bo nho dem
+2026-10-18 01:40:01 [INFO] TRAM058: Dong bo gio he thong
+2026-10-18 02:42:33 [INFO] TRAM065: Nguoi dung dang nhap
+2026-10-18 04:10:30 [DEBUG] TRAM007: Doc cau hinh .env
+2026-10-18 06:15:05 [CRITICAL] TRAM018: CRITICAL - O cung day 99%
+2026-10-18 11:39:36 [INFO] TRAM054: Cam bien gui du lieu thanh cong
+2026-10-18 13:49:20 [INFO] TRAM088: Dong bo gio he thong
+2026-10-18 13:59:58 [CRITICAL] TRAM044: CRITICAL - Mat ket noi co so du lieu
+2026-10-18 16:21:40 [WARNING] TRAM069: RAM con duoi 20%
+2026-10-18 16:36:31 [DEBUG] TRAM020: Doc cau hinh .env
+2026-10-19 01:25:01 [INFO] TRAM052: Cam bien gui du lieu thanh cong
+2026-10-19 01:58:32 [WARN] TRAM047: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-19 04:34:06 [INFO] TRAM001: Cam bien gui du lieu thanh cong
+2026-10-19 05:16:18 [INFO] TRAM063: Cam bien gui du lieu thanh cong
+2026-10-19 06:59:04 [INFO] TRAM077: Cam bien gui du lieu thanh cong
+2026-10-19 08:23:16 [DEBUG] TRAM036: Doc cau hinh .env
+2026-10-19 16:26:52 [WARNING] TRAM085: Nhiet do CPU cao
+2026-10-19 18:40:12 [DEBUG] TRAM014: Kiem tra bo nho dem
+2026-10-20 02:07:32 [WARNING] TRAM037: Nhiet do CPU cao
+2026-10-20 03:31:03 [CRITICAL] TRAM022: CRITICAL - O cung day 99%
+2026-10-20 08:49:49 [WARNING] TRAM058: RAM con duoi 20%
+2026-10-20 20:32:17 [DEBUG] TRAM017: Doc cau hinh .env
+2026-10-20 22:39:22 [INFO] TRAM082: Cam bien gui du lieu thanh cong
+2026-10-21 01:04:52 [WARNING] TRAM051: RAM con duoi 20%
+2026-10-21 02:51:16 [INFO] TRAM003: Dong bo gio he thong
+2026-10-21 04:25:22 [INFO] TRAM094: Nguoi dung dang nhap
+2026-10-21 05:04:13 [ERROR] TRAM022: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-21 20:12:04 [DEBUG] TRAM079: Kiem tra bo nho dem
+2026-10-21 23:44:19 [INFO] TRAM033: Dong bo gio he thong
+2026-10-22 01:38:09 [INFO] TRAM054: Dong bo gio he thong
+2026-10-22 09:26:03 [DEBUG] TRAM037: Doc cau hinh .env
+2026-10-22 09:40:59 [DEBUG] TRAM007: Kiem tra bo nho dem
+2026-10-22 11:11:39 [INFO] TRAM053: Dong bo gio he thong
+2026-10-22 15:18:45 [INFO] TRAM028: Nguoi dung dang nhap
+2026-10-22 17:25:25 [INFO] TRAM100: Dong bo gio he thong
+2026-10-23 00:24:21 [WARNING] TRAM057: Nhiet do CPU cao
+2026-10-23 02:36:03 [WARNING] TRAM071: RAM con duoi 20%
+2026-10-23 06:14:21 [ERROR] TRAM040: ERROR 404 - Khong tim thay tram
+2026-10-23 09:41:36 [INFO] TRAM094: Cam bien gui du lieu thanh cong
+2026-10-23 15:12:23 [ERROR] TRAM007: ERROR 404 - Khong tim thay tai nguyen /api/sensor
+2026-10-24 02:46:10 [ERROR] TRAM052: ERROR 500 - Loi may chu noi bo
+2026-10-24 02:57:38 [INFO] TRAM025: Dong bo gio he thong
+2026-10-24 04:26:22 [CRITICAL] TRAM039: CRITICAL - O cung day 99%
+2026-10-24 07:25:25 [INFO] TRAM017: Dong bo gio he thong
+2026-10-24 08:30:53 [INFO] TRAM044: Nguoi dung dang nhap
+2026-10-24 13:24:26 [DEBUG] TRAM003: Kiem tra bo nho dem
+2026-10-24 20:58:13 [DEBUG] TRAM077: Kiem tra bo nho dem
+2026-10-25 01:00:50 [CRITICAL] TRAM071: CRITICAL - Mat ket noi co so du lieu
+2026-10-25 03:32:28 [INFO] TRAM006: Dong bo gio he thong
+2026-10-25 04:41:55 [ERROR] TRAM079: ERROR 500 - Loi may chu noi bo
+2026-10-25 06:14:47 [DEBUG] TRAM094: Kiem tra bo nho dem
+2026-10-25 06:30:56 [INFO] TRAM092: Dong bo gio he thong
+2026-10-25 08:54:03 [INFO] TRAM055: Dong bo gio he thong
+2026-10-25 09:52:51 [INFO] TRAM046: Dong bo gio he thong
+2026-10-25 16:36:53 [WARN] TRAM068: TIMEOUT - Tram khong phan hoi sau 30s
+2026-10-25 21:48:07 [INFO] TRAM069: Nguoi dung dang nhap
+2026-10-26 12:42:35 [INFO] TRAM013: Dong bo gio he thong
+2026-10-26 19:00:00 [ERROR] TRAM029: ERROR 500 - Loi may chu noi bo
+2026-10-26 19:24:48 [INFO] TRAM092: Nguoi dung dang nhap
+2026-10-26 20:25:58 [WARNING] TRAM004: Nhiet do CPU cao
+2026-10-26 22:43:44 [INFO] TRAM075: Nguoi dung dang nhap
